@@ -215,7 +215,7 @@ JWT_SECRET=<YourSecretKey>
 npm run dev
 ```
 
-5. Backend API is now available at:
+5. Backend API is  available at:
 
 ```
 http://localhost:5000/api
